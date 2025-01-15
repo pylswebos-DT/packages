@@ -1,0 +1,1 @@
+Added mkdir, cd, clear and other basic operating system commands
